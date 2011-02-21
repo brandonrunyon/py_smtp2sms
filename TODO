@@ -1,0 +1,22 @@
+TODO:
+
+* Refactor from demo files for production
+  -split code into different classes 
+  -set up init.py file for user setup (caching environment to .pyc's)
+
+* Add support for user projects
+  -project name
+  -what db used
+  
+* Support MVC for web project??
+  -include Httpserver?
+  -rely on apache?  
+
+* Support ORM
+  -include ORM source, or configurable at init
+
+*xml support
+     -json support?
+
+* Fork it!
+
