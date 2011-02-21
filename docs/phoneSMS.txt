@@ -1,0 +1,119 @@
+United States
+Provider	E-mail to SMS address format
+3 River Wireless       xxxxxxxxx@sms.3rivers.net
+Advantage Communications	xxxxxxxxx@advantagepaging.com
+AirVoice  xxxxxxxxx@mmode.com
+Airtouch Pagers		xxxxxxxxx@airtouch.net
+Airtouch Pagers 	xxxxxxxxx@airtouchpaging.com
+Airtouch Pagers 	xxxxxxxxx@alphapage.airtouch.com
+Airtouch Pagers 	xxxxxxxxx@myairmail.com
+AllTel 	 xxxxxxxxx@message.alltel.com
+Alltel PCS	xxxxxxxxx@message.alltel.com
+Alltel 		xxxxxxxxx@alltelmessage.com
+Ameritech Paging	xxxxxxxxx@pageapi.com
+Arch Pagers (PageNet) 	xxxxxxxxx@archwireless.net
+Arch Pagers (PageNet) 	xxxxxxxxx@epage.arch.com
+AT&T 	    	xxxxxxxxxx@txt.att.net
+Bell South (Blackberry)		xxxxxxxxx@bellsouthtips.com
+Bell South Mobility 		xxxxxxxxx@blsdcs.net
+Bell South 			xxxxxxxxx@blsdcs.net
+Bell South 			xxxxxxxxx@sms.bellsouth.com
+Bell South 			xxxxxxxxx@wireless.bellsouth.com
+Bluegrass Cellular 		xxxxxxxxx@sms.bluecell.com
+Boost Mobile 			xxxxxxxxx@myboostmobile.com
+Boost 				xxxxxxxxx@myboostmobile.com
+CallPlus 			xxxxxxxxx@mmode.com
+Carolina Mobile Communications 	xxxxxxxxx@cmcpaging.com
+Cellular One East Coast 	xxxxxxxxx@phone.cellone.net
+Cellular One PCS  xxxxxxxxx@paging.cellone-sf.com
+Cellular One South West		xxxxxxxxx@swmsg.com
+Cellular One West  xxxxxxxxx@mycellone.com
+Cellular One 	   xxxxxxxxx@message.cellone-sf.com
+Cellular One 	   xxxxxxxxx@mobile.celloneusa.com
+Cellular One 	   xxxxxxxxx@sbcemail.com
+Cellular South 	   xxxxxxxxx@csouth1.com
+Central Vermont Communications	xxxxxxxxx@cvcpaging.com
+CenturyTel 	xxxxxxxxx@messaging.centurytel.net
+Cingular (GSM) 	xxxxxxxxx@cingularme.com
+Cingular (TDMA)		xxxxxxxxx@mmode.com
+Cingular Wireless 	xxxxxxxxx@mobile.mycingular.net
+Cingular 		xxxxxxxxx@cingularme.com
+Communication Specialists	xxxxxxx@pageme.comspeco.net
+Cook Paging   xxxxxxxxx@cookmail.com
+Corr Wireless Communications	xxxxxxxxx@corrwireless.net
+Cricket       xxxxxxxxxx@sms.mycricket.com
+Dobson Communications Corporation	xxxxxxxxx@mobile.dobson.net
+Dobson-Alex Wireless / Dobson-Cellular One	xxxxxxxxx@mobile.cellularone.com
+Edge Wireless 	     xxxxxxxxx@sms.edgewireless.com
+GCS Paging 	     xxxxxxxxx@webpager.us
+GTE 		     xxxxxxxxx@gte.pagegate.net
+GTE 		     xxxxxxxxx@messagealert.com
+Galaxy Corporation   xxxxxxxxx@sendabeep.net
+GrayLink / Porta-Phone	xxxxxxxxx@epage.porta-phone.com
+Houston Cellular 	xxxxxxxxx@text.houstoncellular.net
+Inland Cellular Telephone	xxxxxxxxx@inlandlink.com
+JSM Tele-Page 	xxxxxxxxx@jsmtel.com
+Lauttamus Communication		xxxxxxxxx@e-page.net
+MCI Phone 			xxxxxxxxx@mci.com
+MCI 				xxxxxxxxx@pagemci.com
+Metro PCS 			xxxxxxxxx@metropcs.sms.us
+Metro PCS 			xxxxxxxxx@mymetropcs.com
+MetroPCS 			xxxxxxxxx@mymetropcs.com
+Metrocall 2-way 		xxxxxxxxx@my2way.com
+Metrocall 			xxxxxxxxx@page.metrocall.com
+Midwest Wireless 		xxxxxxxxx@clearlydigital.com
+Mobilecom PA 			xxxxxxxxx@page.mobilcom.net
+Mobilfone 			xxxxxxxxx@page.mobilfone.com
+Morris Wireless 		xxxxxxxxx@beepone.net
+NPI Wireless 			xxxxxxxxx@npiwireless.com
+Nextel 				xxxxxxxxx@messaging.nextel.com
+Nextel 				xxxxxxxxx@page.nextel.com
+Ntelos 				xxxxxxxxx@pcs.ntelos.com
+Omnipoint 			xxxxxxxxx@omnipoint.com
+Omnipoint 			xxxxxxxxx@omnipointpcs.com
+OnlineBeep 			xxxxxxxxx@onlinebeep.net
+PCS One 			xxxxxxxxx@pcsone.net
+Pacific Bell 			xxxxxxxxx@pacbellpcs.net
+PageMart 			xxxxxxxxx@pagemart.net
+PageOne NorthWest 		xxxxxxxxx@page1nw.com
+Pioneer / Enid Cellular 	xxxxxxxxx@msg.pioneerenidcellular.com
+Price Communications 		xxxxxxxxx@mobilecell1se.com
+ProPage 			xxxxxxxxx@page.propage.net
+Public Service Cellular 	xxxxxxxxx@sms.pscel.com
+Qualcomm       name@pager.qualcomm.com
+Qwest 	       xxxxxxxxx@qwestmp.com
+RAM Page       xxxxxxxxx@ram-page.com
+ST Paging      pin@page.stpaging.com
+Safaricom      xxxxxxxxx@safaricomsms.com
+Satelindo GSM  xxxxxxxxx@satelindogsm.com
+Satellink      xxxxxxxxx.pageme@satellink.net
+Simple Freedom	xxxxxxxxx@text.simplefreedom.net
+Skytel Pagers 	xxxxxxxxx@email.skytel.com
+Skytel Pagers 	xxxxxxxxx@skytel.com
+Smart Telecom 	xxxxxxxxx@mysmart.mymobile.ph
+Southern LINC 	xxxxxxxxx@page.southernlinc.com
+Southwestern Bell	xxxxxxxxx@email.swbw.com
+Sprint PCS   xxxxxxxxx@messaging.sprintpcs.com
+Sprint 	     xxxxxxxxx@sprintpaging.com
+SunCom 	     xxxxxxxxx@tms.suncom.com
+Surewest Communications		xxxxxxxxx@mobile.surewest.com
+T-Mobile 			xxxxxxxxx@tmomail.net
+TIM 				xxxxxxxxx@timnet.com
+TSR Wireless 			xxxxxxxxx@alphame.com
+TSR Wireless 			xxxxxxxxx@beep.com
+Teletouch 			xxxxxxxxx@pageme.teletouch.com
+Telus 				xxxxxxxxx@msg.telus.com
+The Indiana Paging Co 		xxxx@pager.tdspager.com
+Triton 	    xxxxxxxxx@tms.suncom.com
+US Cellular	xxxxxxxxx@email.uscc.net
+USA Mobility 	xxxxxxxxx@mobilecomm.net
+Unicel 		xxxxxxxxx@utext.com
+Verizon PCS 	xxxxxxxxx@myvzw.com
+Verizon Pagers 	xxxxxxxxx@myairmail.com
+Verizon 	xxxxxxxxx@vtext.com
+Virgin Mobile 	xxxxxxxxx@vmobl.com
+Virgin Mobile 	xxxxxxxxx@vxtras.com
+WebLink Wireless	xxxxxxxxx@pagemart.net
+West Central Wireless 	xxxxxxxxx@sms.wcc.net
+Western Wireless 	xxxxxxxxx@cellularonewest.com
+Wyndtell 		xxxxxxxxx@wyndtell.com
