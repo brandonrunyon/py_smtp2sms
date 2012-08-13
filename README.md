@@ -1,6 +1,6 @@
 ##what is py_smtp2sms?
 
-###py_smtp2sms is a python application development framework that makes handling sms in a project easier for developers by handling sms gateway routing of smtp formated messages from your email server to desired providers.
+###py_smtp2sms is a python application that makes handling sms in a project easier for developers by handling sms gateway routing of smtp formated messages from your email server to desired providers.
 
 ###Currently py_smtp2sms is in development, the enclosed files demonstrate minimal functionality and extensibility of the basic engine.
 
